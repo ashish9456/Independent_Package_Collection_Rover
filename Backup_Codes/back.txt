@@ -1,0 +1,8 @@
+        IO.output(4,True) #1A+
+
+        IO.output(14,True) #1B-
+
+
+        IO.output(17,True) #2A+
+
+        IO.output(18,False) #2B-
